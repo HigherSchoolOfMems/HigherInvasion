@@ -1,0 +1,9 @@
+httpswww.coursera.orglearnpython-osnovy-programmirovaniya - курсы питон от ВШЭ
+httpswww.coursera.orglearnc-plus-plus-white - C++ белый пояс
+httpswww.coursera.orglearnc-plus-plus-yellow - С++ желтый пояс
+httpswww.coursera.orglearnc-plus-plus-red - С++ красный пояс
+httpsgithub.comalzobninhse-cs-prog - С++ лекции и задачи (в том числе и написание вектора)
+httpoverthewire.orgwargamesbandit  - игра для освоения консольных команд Linux
+httppeople.dunnewind.netpractical_vim.pdf - учебник по Vim
+httpsraw.githubusercontent.comalzobninhse-cs-progmaster2016-1.vimrc – файл с настройками Vim
+httpsgithub.comalzobninhse-cs-progtreemaster2016-1 - конспекты лекций С++
